@@ -1,0 +1,2 @@
+C:\Users\aiman\source\repos\fit3162_gpu_acceleration_cuda_team3\src\CUDA Executable\maskFilterAcceleration\x64\Debug\maskFilterAcceleration.exe
+C:\Users\aiman\source\repos\fit3162_gpu_acceleration_cuda_team3\src\CUDA Executable\maskFilterAcceleration\x64\Debug\maskFilterAcceleration.pdb
